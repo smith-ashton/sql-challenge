@@ -351,3 +351,4 @@ MigrationBackup/
 
 #password for database
 passwords_ig.py
+ERD.txt
